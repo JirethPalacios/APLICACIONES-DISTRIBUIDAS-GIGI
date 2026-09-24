@@ -1,0 +1,17 @@
+{
+  "name": "practica6",
+  "version": "1.0.0",
+  "description": "Practica 6 - Base de datos no relacionales",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Jireth",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0"
+  }
+}
